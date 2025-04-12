@@ -17,7 +17,7 @@ Las específicaciones del sistema con las que se hicieron pruebas fueron las sig
 ## Instrucciones de Compilación y Ejecución
 1. Compilar el código utilizando el siguiente comando en la terminal:
    ```bash
-   g++ -o evaluacionPolinomios evaluacionPolinomios.cpp
+   g++ -o evaluacionPolinomios EvaluacionDePolinomios.cpp
 2. Ejecutar el programa con el siguiente comando:
    ```bash
    ./evaluacionPolinomios
