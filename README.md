@@ -1,4 +1,4 @@
-# Evaluación de Polinomios: Análisis Comparativo de Eficiencia
+# Análisis comparativo de eficiencia: Evaluación de polinomios.
 
 ## Descripción
 Este proyecto evalúa la eficiencia de dos métodos para calcular el valor de un polinomio: el método estándar término a término y el método de Horner. A través de experimentos prácticos y análisis teórico, se compara el desempeño de ambos enfoques en términos de tiempos de ejecución y número de operaciones realizadas.
